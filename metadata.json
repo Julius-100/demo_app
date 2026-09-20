@@ -1,0 +1,6 @@
+{
+  "name": "Pregnancy Wellness Companion",
+  "description": "A supportive, mobile-first pregnancy companion for symptom tracking, nutrition monitoring, hydration logging, and evidence-based wellness guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
